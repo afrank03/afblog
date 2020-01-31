@@ -2,10 +2,11 @@ const coding = require("./sidebars/coding-sidebar.js");
 const pd = require("./sidebars/pd-sidebar.js");
 
 module.exports = {
-  title: "📝 Arthur Frank",
+  title: "A. Frank",
   description: "Coding, Personal Development, Leadership, IT, Courses",
   themeConfig: {
-    searchPlaceholder: "Search...",
+    logo: "/assets/img/avatars/arthur-regular.png",
+    searchPlaceholder: "I want to know about...",
     nav: [
       { text: "Home", link: "/" },
       { text: "Coding", link: "/coding/" },
