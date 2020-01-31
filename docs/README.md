@@ -1,2 +1,2 @@
-# :fire: Welcome to Arthur Frank's blog :fire:
-Common, you can put some nice intro here, right!?
+# Welcome to Arthur Frank's blog
+Common, you can put some nice intro here, right!? :fire:
