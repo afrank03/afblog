@@ -3,6 +3,6 @@ exports.sidebar = [
     title: "Content",
     collapsable: false,
     sidebarDepth: 1,
-    children: ["posts/test-post"]
+    children: ["posts/test-post", "posts/functions-in-js"]
   }
 ];
