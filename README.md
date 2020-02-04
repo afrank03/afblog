@@ -1,2 +1,2 @@
-# ![Arthur avatar](/docs/.vuepress/public/assets/img/avatars/arthur-regular.png) A. Frank Blog
+# <img src="/docs/.vuepress/public/assets/img/avatars/arthur-regular.png" width="60" /> A. Frank Blog
 More info is coming!
