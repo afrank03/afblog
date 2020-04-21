@@ -6,7 +6,7 @@ If you want to become a really good software engineer, it’s not enough just to
 In this post I want to share some good practices developers use when they declare variables. But before we dove into action, let’s answer one question first.
 
 ## What is best practice?
-Best practice is pretty much anything that will make your code better, more solid, readable, well structured, scalable and easy to understand. But this is very vague description isn’t it.? So let me give you a little glimpse of what best practices are, using JavaScript variables as an example.
+Best practice is pretty much anything that will make your code better, more solid, readable, well structured, scalable and easy to understand. But this is very vague description isn’t it? So let me give you a little glimpse of what best practices are, using JavaScript variables as an example.
 
 ## Naming convention
 Giving a good name to your variable is crucial. From how you will name you variables will depend the future of your application code. Because it will dictate how easy it is: 
