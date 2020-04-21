@@ -1,7 +1,7 @@
 # JavaScript variables - Best practices
 
 ## Intro
-If you want to become a really good software engineer, it’s not enough just to learn some basic principles of the language. It’s even not enough to know language on a quite advanced level. To become a genuinely decent developer, you need to know, about things like **Clean Code**, **Best practices**, **Application design**, **Patterns** and many more. Which are not directly connected to a specific programming language. 
+If you want to become a really good software engineer, it’s not enough just to learn some basic principles of the language. It’s not even enough to know language at quite an advanced level. To become a genuinely decent developer, you need to know about things like: **Clean Code**, **Best practices**, **Application design**, **Patterns** etc. which are not directly connected to a specific programming language. 
 
 In this post I want to share some good practices developers use when they declare variables. But before we dove into action, let’s answer one question first.
 
