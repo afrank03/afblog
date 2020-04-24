@@ -3,7 +3,7 @@
 
 ## What value can you find here 💡
 
-In this are of the blog, I am posting articles about anything related to coding.
+Here I am posting articles about anything related to coding.
 Main spectrum or tech stack is currently going to be around Front-end and
 mobile App development.
 
@@ -16,7 +16,7 @@ mobile App development.
 - CSS
 :::
 
-::: warning What next?
+::: tip What next?
 You can use `search` in the top menu to lookup for articles you are interested.
 Or you can navigate through the `menu on the left`.
 :::
