@@ -12,7 +12,8 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Coding", link: "/coding/" },
-      { text: "Personal Development", link: "/pd/" },
+//       Closing this section until there is at least one article
+//       { text: "Personal Development", link: "/pd/" },
       { text: "About", link: "/about/" }
     ],
     sidebar: {
